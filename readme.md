@@ -2,4 +2,4 @@
 
 This repository contains data files and utilities for the course. 
 
-* [Seeds Data](https://raw.githubusercontent.com/mdogy/dsei210-s21/main/data/seeds_dataset.txt)
+* Seeds Data: [bit.ly/seeds-data-dsei210-s21](bit.ly/seeds-data-dsei210-s21)
