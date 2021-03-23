@@ -4,3 +4,5 @@ This repository contains data files and utilities for the course.
 
 * Seeds Data: [bit.ly/seeds-data-dsei210-s21](bit.ly/seeds-data-dsei210-s21)
 *  Japanese Credit Approval Data [http://bit.ly/japaneseCreditApprove](http://bit.ly/japaneseCreditApprove)
+*  Spine Data Set [http://bit.ly/spinedataset](http://bit.ly/spinedataset)
+
